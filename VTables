@@ -1,0 +1,7 @@
+GetFOVAngle : 0x788
+GetCameraLocation : 0x7D0
+GetCameraRotation : 0x7C8
+ClientSetCameraMode : 0x9F8
+GetPlayerViewPoint : 0x7B8
+SetControlRotation : 0x728
+ProcessEvent : 0x4c
