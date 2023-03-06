@@ -6,7 +6,7 @@ I will try to update these every time that Fortnite updates.
    
    (If you need any other offset, use fn.dumps.host)
 
-
-     Updated \ Checked All Offsets
-     Updated \ Checked All Signatures
-     Updated \ Checked All VTables
+     Status :
+     Updated \ Checked All Offsets (Updated To 23.50)
+     Updated \ Checked All Signatures (Updated To 23.50)
+     Updated \ Checked All VTables (Updated To 23.50)
